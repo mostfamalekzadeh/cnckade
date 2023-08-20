@@ -1,0 +1,18 @@
+@font-face {
+  font-family: ekan;
+  src: url(../fonts/Yekan.ttf);
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: ekan;
+  
+  box-sizing: border-box;
+}
+.nav{
+  right: -100%;
+
+transition: all 0.5s ;
+
+}
